@@ -1,7 +1,7 @@
 {
   "name": "react-tree-structure",
   "version": "1.0.0",
-  "description": "Made with create-react-library",
+  "description": "React Tree structure (Under Development)",
   "author": "VigneshK4334",
   "license": "MIT",
   "repository": "https://github.com/VigneshK4334/react-tree-structure",
@@ -9,7 +9,7 @@
   "module": "dist/index.modern.js",
   "source": "src/index.tsx",
   "engines": {
-    "node": ">=10"
+    "node": ">=12"
   },
   "scripts": {
     "build": "microbundle-crl --no-compress --format modern,cjs",
